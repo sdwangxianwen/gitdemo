@@ -15,9 +15,6 @@ class ViewController: UIViewController {
 
         view.backgroundColor = UIColor.clear
         view.backgroundColor = UIColor.clear
-
-
-        view.backgroundColor = UIColor.red
         view.backgroundColor = UIColor.red
         // Do any additional setup after loading the view, typically from a nib.
     }
